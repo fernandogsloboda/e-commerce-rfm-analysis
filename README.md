@@ -198,7 +198,7 @@ Real anonymized data from 100k+ orders made at Olist Store (Brazilian marketplac
 
 **Fernando** | Data Analyst  
 📍 Curitiba, Paraná, Brazil  
-🎓 Bachelor's in Economics | 2 years in Commodities Trading  
+🎓 Bachelor's in Economics
 
 **Certifications:**
 - Google Data Analytics Professional Certificate
